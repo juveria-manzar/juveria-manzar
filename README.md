@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp> 
-    Here as an undergrad, Full-stack developer, who enjoys experimenting with new technologies, building small to big projects, and occassionally sleeping.💀.
+    Here as an undergrad, Full-stack developer, who enjoys to experiment with new technologies, building small to big projects, and occassionally sleeps.💀.
     In my free time apart from reading tech blogs, I make a habit of journaling my day and mordantly, I kvell in being a logophile. 
  </samp>
  
@@ -40,7 +40,7 @@
 <p align='center'>
   <a href="https://www.linkedin.com/in/juveria-manzar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:juveriamanzar29@gmail.com?subject=Olá%20Juveria"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/in/juveria_manzar"><img src="https://img.shields.io/badge/instagram-%23E0487F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/juveria_manzar"><img src="https://img.shields.io/badge/instagram-%23E0487F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
    
