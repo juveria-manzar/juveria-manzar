@@ -8,7 +8,7 @@
  
  
 <hr>
-<h4 align='center'> ⚙ My Tech Stack presntly includes...</h4>
+<h4 align='center'> ⚙ My Tech Stack presently includes...</h4>
 
 
 <h5 align='center'> Web Dev</h5>
