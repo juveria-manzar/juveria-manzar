@@ -30,7 +30,7 @@ const juveria = {
  </br>
 
 [![Instagram Badge](https://img.shields.io/badge/-Juveria-pink?style=flat-square&logo=Instagram&logoColor=black&link=https://www.instagram.com/juveria_manzar/)](https://img.shields.io/badge/-Juveria-pink?style=flat-square&logo=Instagram&logoColor=black&https://www.instagram.com/juveria_manzar/) 
-[![Goodreads: Juveria Manzar](https://img.shields.io/badge/-Juveria-"#382110"?style=flat-square&logo=Goodreads&link=https://www.goodreads.com/review/list/72907916?page=2&ref=nav_mybooks)](https://www.goodreads.com/review/list/72907916?page=2&ref=nav_mybooks)
+[![Goodreads: JuveriaManzar](https://img.shields.io/badge/-Juveria-brown?style=flat-square&logo=Goodreads&link=https://www.goodreads.com/review/list/72907916?page=2&ref=nav_mybooks)](https://www.goodreads.com/review/list/72907916?page=2&ref=nav_mybooks)
 [![Twitter: JuveriaManzar](https://img.shields.io/twitter/follow/Juveria?style=social)](https://twitter.com/panglossion)
 [![Linkedin: JuveriaManzar](https://img.shields.io/badge/-Juveria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juveria-manzar/)](https://www.linkedin.com/in/juveria-manzar/)
 [![GitHub JuveriaManzar](https://img.shields.io/github/followers/juveria?label=follow&style=social)](https://github.com/juveria-manzar)<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
