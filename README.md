@@ -1,7 +1,7 @@
 <h1 align="center">Hello Geeks <img width="30px" src="https://github.com/KKVANONYMOUS/kkvanonymous/blob/master/gifs/Hi.gif">I'm Juveria</h1>
 
 <p align="center">
-  <img src = "https://github.com/juveria-manzar/juveria-manzar/blob/master/images/femalecodertocat.png" width = "250" height = "250" align = "right">
+  <img src = "https://github.com/juveria-manzar/juveria-manzar/blob/master/femalecodertocat.png" width = "250" height = "250" align = "right">
   <p><em>Pre final year Engineering student at Maharaja Surajmal Institute of Technology, New Delhi, India <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Full Time Coder<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
   
