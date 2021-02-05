@@ -20,18 +20,18 @@ const juveria = {
   tools: [Node, Angular, React, MongoDB, MySQL, Git, Postman],
   hobbies: {
                         journalling: ["Scarpbook","Planner"],
-                        reading: "anything that interests me, Check my GOODREADS",
+                        reading: ["Aything that interests me, Check my GOODREADS"],
                         writing: "about things that bother me"
            },
 }
 ```
  
- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to know you more!</b> :)</em>
+ <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to know you more!</b> :)</em>
  </br>
 [![Instagram Badge](https://img.shields.io/badge/-Juveria-pink?style=flat-square&logo=Instagram&logoColor=black&link=https://www.instagram.com/juveria_manzar/)](https://www.instagram.com/juveria_manzar/) 
 [![Twitter: JuveriaManzar](https://img.shields.io/twitter/follow/Juveria?style=social)](https://twitter.com/panglossion)
 [![Linkedin: JuveriaManzar](https://img.shields.io/badge/-Juveria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juveria-manzar/)](https://www.linkedin.com/in/juveria-manzar/)
-[![GitHub JuveriaManzar](https://img.shields.io/github/followers/juveria?label=follow&style=social)](https://github.com/juveria-manzar)
+[![GitHub JuveriaManzar](https://img.shields.io/github/followers/juveria?label=follow&style=social)](https://github.com/juveria-manzar)<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 
 
 
