@@ -15,7 +15,7 @@
 ```javascript
 const juveria = {
   pronouns: "she" | "her",
-  words:[],
+  words:["Observant","Passionate"],
   code: [Javascript, Typescript, HTML, CSS, Java],
   tools: [Node, Angular, React, MongoDB, MySQL, Git, Postman],
   hobbies: {
