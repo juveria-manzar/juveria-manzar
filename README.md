@@ -1,4 +1,4 @@
-<h1 align="center">Hello fellow Geeks <img width="30px" src="https://github.com/KKVANONYMOUS/kkvanonymous/blob/master/gifs/Hi.gif">I'm Juveria</h1>
+<h1 align="center">Hello Geeks <img width="30px" src="https://github.com/KKVANONYMOUS/kkvanonymous/blob/master/gifs/Hi.gif">I'm Juveria</h1>
 
 <p align="center">
   <samp> 
