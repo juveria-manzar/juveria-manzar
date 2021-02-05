@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src = "https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/femalecodertocat.png" width = "300" height = "300" align = "right">
-  <p><em>Pre final year Student at Maharaja Surajmal Institute of Technology, New Delhi, India <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> Full Time Coder<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  <p><em>Pre final year Engineering student at Maharaja Surajmal Institute of Technology, New Delhi, India <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> Full Time Coder<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
   
   <samp> 
