@@ -10,6 +10,22 @@
     In my free time apart from reading tech blogs, I make a habit of journaling my day and mordantly, I kvell in being a logophile. 
  </samp>
  
+ ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const juveria = {
+  pronouns: "she" | "her",
+  words:[],
+  code: [Javascript, Typescript, HTML, CSS, Java],
+  tools: [Node, Angular, React, MongoDB, MySQL, Git, Postman],
+  hobbies: {
+                        journalling: ["Scarpbook","Planner"],
+                        reading: "anything that interests me, Check my GOODREADS",
+                        writing: "about things that bother me"
+           },
+}
+```
+ 
  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to know you more!</b> :)</em>
  </br>
 [![Instagram Badge](https://img.shields.io/badge/-Juveria-pink?style=flat-square&logo=Instagram&logoColor=black&link=https://www.instagram.com/juveria_manzar/)](https://www.instagram.com/juveria_manzar/) 
