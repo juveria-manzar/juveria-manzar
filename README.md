@@ -1,6 +1,10 @@
 <h1 align="center">Hello Geeks <img width="30px" src="https://github.com/KKVANONYMOUS/kkvanonymous/blob/master/gifs/Hi.gif">I'm Juveria</h1>
 
 <p align="center">
+  <img src = "https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/femalecodertocat.png" width = "300" height = "300" align = "right">
+  <p><em>Pre final year Student at Maharaja Surajmal Institute of Technology, New Delhi, India <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> Full Time Coder<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+  
   <samp> 
     Here as an undergrad, Full-stack developer, who enjoys to experiment with new technologies, building small to big projects, and occassionally sleeps.💀.
     In my free time apart from reading tech blogs, I make a habit of journaling my day and mordantly, I kvell in being a logophile. 
@@ -35,11 +39,6 @@
   <img src="https://img.shields.io/badge/firebase%20-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" /> <br> <br>
 </p>
 <hr>
-<br>
-<h3  align='center'>Find me around the web 🌎 to know more! 💃 </h3>
-<p align='center'>
-  <a href="https://www.linkedin.com/in/juveria-manzar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:juveriamanzar29@gmail.com?subject=Olá%20Juveria"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
+[![Write into my guest book](https://img.shields.io/badge/-___%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round)](https://github.com/juveria-manzar/juveria-manzar/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook)
+<br/>
    
