@@ -3,7 +3,6 @@
 [![Twitter: JuveriaManzar](https://img.shields.io/twitter/follow/Juveria?style=social)](https://twitter.com/panglossion)
 [![Linkedin: JuveriaManzar](https://img.shields.io/badge/-Juveria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juveria-manzar/)](https://www.linkedin.com/in/juveria-manzar/)
 [![GitHub JuveriaManzar](https://img.shields.io/github/followers/juveria?label=follow&style=social)](https://github.com/juveria-manzar)
-<h1></h1>
 
 <p align="center">
   <img src = "https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/femalecodertocat.png" width = "300" height = "300" align = "right">
