@@ -40,7 +40,6 @@
 <p align='center'>
   <a href="https://www.linkedin.com/in/juveria-manzar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:juveriamanzar29@gmail.com?subject=Olá%20Juveria"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/juveria_manzar"><img src="https://img.shields.io/badge/instagram-%23E0487F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
    
