@@ -6,8 +6,8 @@
 </em></p>
   
   <samp> 
-    Here as an undergrad, Full-stack developer, who enjoys to experiment with new technologies, building small to big projects, and occassionally sleeps.💀.
-    In my free time apart from reading tech blogs, I make a habit of journaling my day and mordantly, I kvell in being a logophile. 
+    Here as an undergrad, Full-stack developer, who enjoys to experiment with new technologies, building small to big projects, loves to contribute to open-source and occassionally sleeps.💀.
+    In my free time I love to raed and if not that I choose to fill my colorful scarpbook. 
  </samp>
  
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -18,7 +18,7 @@ const juveria = {
   words:["Observant","Passionate","Perseverant"],
   code: [Javascript, Typescript, HTML, CSS, Java],
   tools: [Node, Angular, React, MongoDB, MySQL, Git, Postman],
-  hobbies: {
+  hobbies: {            
                         journalling: ["Scarpbook","Planner"],
                         reading: ["Aything that interests me, Check my GOODREADS"],
                         writing: "about things that bother me"
