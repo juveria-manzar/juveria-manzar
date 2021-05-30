@@ -15,13 +15,19 @@
 ```javascript
 const juveria = {
   pronouns: "she" | "her",
-  words:["Observant","Passionate","Perseverant"],
-  code: [Javascript, Typescript, HTML, CSS, Java],
-  tools: [Node, Angular, React, MongoDB, MySQL, Git, Postman],
+  worksAs:"`Learner` in life" |"Full time `Developer`" | "BTech 3rd Year "Student" at Indraprastha University",
+  desc:["Observant","Passionate","Perseverant"],
+  knownLanguages: [Javascript, Typescript, HTML, CSS, Java],
+  experiencedIn: [Node, Angular, React, MongoDB, MySQL, Git, Postman],
   hobbies: {            
-                        journalling: ["Scarpbook","Planner"],
-                        reading: ["Aything that interests me, Check my GOODREADS"],
+                        journaling: ["Scarpbook 🖍","Planner 📝"], making stuffs out of waste ♻
+                        reading: "Currently reading Fooled by Randomness by Nassim Taleb"
                         writing: "about things that bother me"
            },
+  contactMe@:{
+                       email:"juverimanzar29@gmail.com",
+                       linkedIn:"juveri-manzar",
+                       instagram:"juveria_manzar"
+            },         
 }
 ```
