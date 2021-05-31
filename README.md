@@ -9,21 +9,21 @@ alert("Open for symbiotic collaboration");
 
 const juveria = {
   pronouns: "she" | "her",
-  worksAs:"Learner in life"|"Full time Developer"|"BTech 3rd Year Student at Indraprastha University",
-  desc:["Observant","Passionate","Perseverant"],
+  worksAs:"Learner in life"|"Full time Full Stack Developer"|"BTech 3rd Year Student at Indraprastha University",
+  desc:["Extrovert","Observant","Passionate","Perseverant","Very Funny 😂"],
   knownLanguages: [Javascript, Typescript, HTML, CSS, Java],
   experiencedIn: [Node, Angular, React, MongoDB, MySQL, Git, Postman],
   hobbies: {            
-                        journaling: ["Scarpbook 🖍","Planner 📝"], 
-                        craft: "making stuffs out of waste ♻",
-                        reading: "Currently reading Fooled by Randomness by Nassim Taleb 📖",
-                        writing: "About things that bother me ✍"
+                journaling: ["Scarpbook 🖍","Planner 📝"], 
+                craft: "making stuffs out of waste ♻",
+                reading: "Currently reading Fooled by Randomness by Nassim Taleb 📖",
+                writing: "About things that bother me ✍"
            },
   funFact:"Hates to sleep 💀",         
   contactMe@:{
-                       email:"juverimanzar29@gmail.com",
-                       linkedIn:"juveri-manzar",
-                       instagram:"juveria_manzar"
+                  email:"juverimanzar29@gmail.com",
+                  linkedIn:"juveri-manzar",
+                  instagram:"juveria_manzar"
             },         
 }
 ```
