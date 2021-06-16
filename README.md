@@ -20,7 +20,7 @@ const juveria = {
   funFact:"Hates to sleep 💀",         
   contactMe@:{
                   email:"juverimanzar29@gmail.com",
-                  linkedIn:"juveri-manzar",
+                  linkedIn:"juveria-manzar",
                   instagram:"juveria_manzar"
             },         
 }
