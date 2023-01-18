@@ -7,7 +7,7 @@ alert("Open for symbiotic collaboration");
 
 const juveria = {
   pronouns: "she" | "her",
-  worksAs:"Learner in life"|"Full Stack Developer"|"BTech 3rd Year Student at Indraprastha University",
+  worksAs:"Learner in life"|"Software Developer at Dresma"
   desc:["Extrovert","Observant","Passionate","Perseverant","Very Funny😂"],
   knownLanguages: [Javascript, Typescript, Java],
   experiencedIn: [Node, Angular, React, MongoDB, MySQL, Git, Postman],
