@@ -12,9 +12,9 @@ const juveria = {
   knownLanguages: [Javascript, Typescript, Java],
   experiencedIn: [Node, Angular, React, MongoDB, MySQL, Git, Postman],
   hobbies: {            
-                journaling: ["Scarpbook 🖍","Planner 📝"], 
+                journaling: ["Scrapbook 🖍","Planner 📝"], 
                 craft: "making stuffs out of waste ♻",
-                reading: "Currently reading Fooled by Randomness by Nassim Taleb 📖",
+                reading: "Currently reading Namesake by jhumpa lahiri 📖",
                 writing: "About things that bother me ✍"
            },
   funFact:"Hates to sleep 💀",         
